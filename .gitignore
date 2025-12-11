@@ -1,0 +1,6 @@
+# Arquivos do Sistema Operacional e Cache
+.DS_Store
+Thumbs.db
+
+# Arquivos de Editor (Exemplo para VS Code)
+.vscode/
